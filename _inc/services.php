@@ -61,7 +61,7 @@
             <div class="row justify-content-center">
                 <div class="col-lg-6 col-md-10">
                     <div class="section-title text-center pb-25">
-                        <p class="text">Disposem d'espais de us comú per que puguis dinar, descansar o fer reunions o videoconferències en tranquilitat.</p>
+                        <p class="text">Disposem d'espais d'ús comú per que puguis fer un café, dinar, descansar o fer reunions i videoconferències en tranquilitat.</p>
                         <p class="text"><small><a href="#contact">Contacte amb nosaltres</a> si necessites me sinformació.</small></p>
                     </div> <!-- section title -->
                 </div>
