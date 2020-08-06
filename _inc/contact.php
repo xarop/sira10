@@ -35,7 +35,7 @@
                                 <i class="lni lni-envelope"></i>
                             </div>
                             <div class="contact-info-content media-body">
-                                <p class="text"><strong>Escriunos un email</strong></p>
+                                <p class="text"><strong>Escriu-nos un email</strong></p>
                                 <p class="text"><a href="mailto:hola@sira10.com">hola@sira10.com</a></p>
                             </div>
                         </div> <!-- single contact info -->
