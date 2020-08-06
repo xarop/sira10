@@ -59,8 +59,8 @@
                                 <i class="lni lni-phone"></i>
                             </div>
                             <div class="contact-info-content media-body">
-                                <p class="text"><strong>O ens pots rucar</strong></p>
-                                <p class="text"><a href="tel:+34620582626">+34 620 58 26 26</a></p>
+                                <p class="text"><strong>O ens pots trucar</strong></p>
+                                <p class="text"><a href="tel:+34620582626">620 58 26 26</a></p>
                             </div>
                         </div> <!-- single contact info -->
                     </div>

@@ -13,8 +13,8 @@
                     </div> <!-- footer logo -->
                     <ul class="social text-center mt-60">
                         <!-- <li><a href="https://facebook.com/siradeu"><i class="lni lni-facebook-filled"></i></a></li> -->
-                        <li><a href="https://twitter.com/somespai"><i class="lni lni-twitter-original"></i></a></li>
-                        <li><a href="https://instagram.com/sira10"><i class="lni lni-instagram-original"></i></a></li>
+                        <li><a href="https://twitter.com/somespai" target="_blank"><i class="lni lni-twitter-original"></i></a></li>
+                        <li><a href="https://instagram.com/siradeu" target="_blank"><i class="lni lni-instagram-original"></i></a></li>
                         <!-- <li><a href="#"><i class="lni lni-linkedin-original"></i></a></li> -->
                     </ul> <!-- social -->
                     <div class="footer-support text-center">

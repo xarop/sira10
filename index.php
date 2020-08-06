@@ -24,6 +24,7 @@ $description="Necessites un espai de treball o per oferir els teus productes o s
     <meta property="og:image" content="<?php echo $url;?>/assets/images/favicon.png">
     <meta name="twitter:card" content="summary" />
     <meta name="twitter:description" content="<?php echo $description;?>" />
+    <meta name="twitter:image" content="<?php echo $url;?>/assets/images/favicon.png" />
     <meta name="twitter:title" content="<?php echo $title;?>" />
     <meta name="twitter:creator" content="@somespai" />
     
