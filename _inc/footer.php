@@ -18,8 +18,8 @@
                         <!-- <li><a href="#"><i class="lni lni-linkedin-original"></i></a></li> -->
                     </ul> <!-- social -->
                     <div class="footer-support text-center">
-                        <span class="number">+34 620 58 26 26</span>
-                        <span class="mail">hola@sira10.com</span>
+                        <a href="tel:+34 620 58 26 26"><span class="number">+34 620 58 26 26</span></a><br/>
+                        <a href="mailto:hola@sira10.com"><span class="mail">hola@sira10.com</span></a>
                     </div>
                     <div class="copyright text-center mt-35">
                         <p class="text">Dissenyat a Barcelona per <a href="https://xarop.com" rel="nofollow">xarop.com</a></p>
